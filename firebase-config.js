@@ -17,7 +17,7 @@
 // 1. Tempel konfigurasi dari Firebase Console
 //    (Project settings > General > Your apps > Web app > SDK setup and configuration)
 const FIREBASE_CONFIG = {
-apiKey: "AIzaSyCrI7oVxS2rPvmWNJ0xnK8HKpWpZRCQ5L4",
+  apiKey: "AIzaSyCrI7oVxS2rPvmWNJ0xnK8HKpWpZRCQ5L4",
   authDomain: "seblakumkm.firebaseapp.com",
   projectId: "seblakumkm",
   storageBucket: "seblakumkm.firebasestorage.app",
